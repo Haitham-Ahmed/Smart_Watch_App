@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93738055302",
+    "project_id": "smartwatch-f8420",
+    "storage_bucket": "smartwatch-f8420.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93738055302:android:51c4950d30c53d98658307",
+        "android_client_info": {
+          "package_name": "com.example.smart_watch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Qp8NIfUSm7yvHdT2O9VOjHT6sQqw7Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
